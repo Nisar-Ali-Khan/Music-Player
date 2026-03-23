@@ -46,5 +46,3 @@ A modern, feature-rich web-based music player with playlist functionality, searc
 | JavaScript (ES6+) | Core functionality, DOM manipulation |
 | Font Awesome | Icons for controls |
 | Google Fonts | Poppins typography |
-
-## 📁 Project Structure
